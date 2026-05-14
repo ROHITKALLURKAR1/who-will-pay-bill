@@ -20,3 +20,4 @@ A simple Java Swing application that randomly selects who will pay the bill.
 - Better UI
 - Animation effects
 - Sound effects
+- Exeption handle
